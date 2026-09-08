@@ -1,0 +1,263 @@
+{
+  "main": {
+    "id": "a2b3424bef278a6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc2455f4619c70ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5dfa38c1534ea0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kaggle Learning/Intro to Deep Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intro to Deep Learning"
+            }
+          },
+          {
+            "id": "45764f2be45d46cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kaggle Learning/Intro to Deep Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intro to Deep Learning"
+            }
+          },
+          {
+            "id": "f248ea197a193b3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kaggle Learning/Neural Networks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Neural Networks"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ca342fe846024131",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad8673ac4baf5c21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ef55a5b611c5db3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "796387032fdb6c90",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "96b9cd54171a5e92",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 211.10000610351562
+  },
+  "right": {
+    "id": "bf4313d7e0d89fe6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d25c447129465ce8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d41b8ff3edf5a4a9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "COS40005.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c52471869cb81856",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Kaggle Learning/Neural Networks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "4985bbf1c9f30a7e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b528ba45d00e52a2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "52d17273cca9a20f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "COS40005.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f248ea197a193b3b",
+  "lastOpenFiles": [
+    "Kaggle Learning/Activation Function.md",
+    "Kaggle Learning/Neural Networks.md",
+    "School - Sem1Year3/COS30008 - Data Structures and Algorithm/COS30008 - Data Structures and Algorithm.md",
+    "Kaggle Learning/Intro to Deep Learning.md",
+    "Kaggle Learning/images/Pasted image 20260908203207.png",
+    "Kaggle Learning/Layers.md",
+    "Kaggle Learning/Neuron.md",
+    "Kaggle Learning/images/Pasted image 20260908185557.png",
+    "Kaggle Learning/images",
+    "Pasted image 20260908183245.png",
+    "Kaggle Learning/Computer Vision.md",
+    "Pasted image 20260908183214.png",
+    "School - Sem1Year3/Overall.md",
+    "School - Sem1Year3/COS30008 - Data Structures and Algorithm/Fundamental Data Structures.md",
+    "School - Sem1Year3/COS30008 - Data Structures and Algorithm/Single-linked lists.md",
+    "Untitled.md",
+    "Untitled.base",
+    "School - Sem1Year3/COS40005 - Computing Technology Project A.md",
+    "School - Sem1Year3/COS30082",
+    "School - Sem1Year3/COS30008",
+    "COS30008",
+    "School - Sem1Year3",
+    "School - Sem1Year3/COS40005 - Computing Technology Project A/Week1",
+    "School - Sem1Year3/COS30082 - Applied Machine Learning/Week1",
+    "School - Sem1Year3/COS40007 - AI Engineering/Week1",
+    "School - Sem1Year3/COS30008 - Data Structures and Algorithm/Week1",
+    "School - Sem1Year3/COS30008 - Data Structures and Algorithm/C++.md",
+    "School - Sem1Year3/COS30008 - Data Structures and Algorithm/Dynamic arrays.md",
+    "School - Sem1Year3/COS30008 - Data Structures and Algorithm/Abstract data types.md",
+    "School - Sem1Year3/COS30008 - Data Structures and Algorithm/Data Types and Abstraction.md",
+    "School - Sem1Year3/COS30008 - Data Structures and Algorithm/Design Patterns.md",
+    "School - Sem1Year3/COS30008 - Data Structures and Algorithm/Memory Management.md",
+    "School - Sem1Year3/COS30008 - Data Structures and Algorithm/Pointers.md",
+    "School - Sem1Year3/COS30008 - Data Structures and Algorithm/Sets, arrays, indexers and iterators.md",
+    "Untitled.canvas",
+    "School - Sem1Year3/COS40005 - Computing Technology Project A/Sprint 1.md",
+    "School - Sem1Year3/COS40005 - Computing Technology Project A/Sprint 2.md",
+    "School - Sem1Year3/COS40005 - Computing Technology Project A/Preparation Phase.md",
+    "create a link.md"
+  ]
+}
